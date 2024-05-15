@@ -17,8 +17,8 @@ I'm currently diving deeper into JavaScript applications, and Java Spring boot. 
 Feel free to contact me via provideus123@gmail.com if you have any questions, or collaboration opportunities, or just want to connect! You can also find me on LinkedIn, and Twitter.
 
 🔗 Links
-(https://www.linkedin.com/in/rejus-nedzviega-b3b667193/)
-(https://twitter.com/v1_SOuL)
-(https://github.com/MrProvide?tab=repositories)
+https://www.linkedin.com/in/rejus-nedzviega-b3b667193/
+https://twitter.com/v1_SOuL
+
 
 Thank you for stopping by! Let's innovate and build together 🚀
